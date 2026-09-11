@@ -29,6 +29,3 @@ Docker  ·  Docker Compose  ·  Nginx  ·  Prometheus  ·  Grafana  ·  GitHub A
 
 Прохожу серию DevOps-Projects (Kubernetes, Terraform, Argo CD, DevSecOps) — по мере готовности выкладываю репозитории.
 
----
-
-📫 Контакты: `bylbozator@users.noreply.github.com` — добавьте сюда ваш Telegram/email
